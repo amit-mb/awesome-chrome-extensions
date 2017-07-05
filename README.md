@@ -6,3 +6,7 @@
 * [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn?hl=en): For managing cookies.
 * [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim?hl=en-US): Shows heatmap of events bound to elements on the page.
 * [Better Pull Requests](https://chrome.google.com/webstore/detail/better-pull-requests/ioaepkkioliomgmnhkgkhcdoofgihhcc/related): Makes GitHub and BitBucket diffs easier to read.
+
+## PHP Dev
+
+[XDebug Helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc): Tool for enabling/disabling XDebug on a host.
