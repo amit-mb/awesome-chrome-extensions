@@ -1,5 +1,6 @@
 * [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf?hl=en): Useful for working with Gists.
 * [PostMan](https://www.getpostman.com/): For testing REST APIs.
+* [Interceptor](https://chrome.google.com/webstore/detail/interceptor/enenfaicdcfgcnjmiigcjbmlbaoapnen/): Run web clients without backends by mocking HTTP requests.
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en): Fingerprints web application technologies.
 * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=en): Session management tool.
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa): Beautifies JSON.
